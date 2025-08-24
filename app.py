@@ -2,10 +2,13 @@ from flask import Flask, request, jsonify
 import joblib
 import json
 import numpy as np
+from flask_cors import CORS
+
+
 
 # Initialize Flask app
 app = Flask(__name__)
-
+CORS(app)
 # Load trained model
 model = joblib.load("water_model.pkl")
 
