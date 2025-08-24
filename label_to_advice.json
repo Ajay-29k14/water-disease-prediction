@@ -1,0 +1,8 @@
+{
+    "Safe": "Water is safe to drink. Maintain regular monitoring.",
+    "Diarrheal_Disease": "Boil water before consumption; maintain proper sanitation.",
+    "Enteric_Diseases_Typhoid_Cholera_HepA": "Chlorinate water; wash hands regularly.",
+    "Chemical_Fluoride_Arsenic_Risk": "Use appropriate filters (RO/Activated Alumina).",
+    "Bacterial_Risk_from_Poor_Disinfection": "Improve chlorination; avoid stagnant storage.",
+    "Metal_Leaching_Risk": "Check pipelines and avoid corrosive plumbing."
+}

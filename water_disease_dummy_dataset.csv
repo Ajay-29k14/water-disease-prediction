@@ -1,0 +1,501 @@
+pH,Turbidity,TDS,Contamination_Prob,Disease_Risk,Advice
+6.685430534813131,20.944851420592354,451.75256479337736,0.519081785136218,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.278214378844623,16.082890990323612,1129.6118000188806,0.47918187762973097,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.293972738151323,9.285828488589832,1758.5970881651758,0.025642065806435688,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.693963178886665,24.413850591208462,1491.2272841781662,0.34124782762615635,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.702083881990964,20.541935176616377,1632.4661809367544,0.38019561878585706,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+5.701975341512912,4.8785081803467385,1351.688396750363,0.3988227808969005,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.261376254756898,27.327815534815272,1415.3254725839197,0.5801723692273323,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.897792655987208,24.67611728769507,1713.4717379741066,0.5336025467268785,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.70501755284444,28.49399739875772,574.3692168324533,0.6079050927934446,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.186326600082204,21.771585251650798,1029.9074309219668,0.7648832615421283,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.092630224331111,18.402455878073695,520.2979394572442,0.8129857387160935,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.364594334728974,12.547291088718566,1976.5692151936294,0.7181230762264944,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+8.745991883601897,27.981854500620397,1893.712745404565,0.9555236959549347,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.955525998052242,25.98191668501225,174.9109416001612,0.01823258267636163,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.818212352431953,1.3565601031856822,1440.592827779808,0.1957779856835461,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.825320294340452,0.7910092349175601,1857.971803089765,0.00756287497814212,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.3690900933179195,11.293901006341487,443.0931557419337,0.647474714154603,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.361403942345071,24.316599923454987,1179.095938049996,0.8980305489499869,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+6.943752583889521,29.618283879448335,1839.4277654172795,0.24348229657629927,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.310531130891189,4.5125067331058455,164.4973593130178,0.9270345447963066,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.753338026250708,17.823921460564055,1425.098507768996,0.06026739028956085,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.627722372934189,11.426725698930646,664.9631140078465,0.9344360268055143,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.314650918408482,29.097431934438095,1856.3527712154078,0.3516226872396344,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.648628294821613,25.26356769407126,1945.0106658141988,0.10142082844921652,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.052314928976662,25.149861141334135,1894.1063293155244,0.48587175918632564,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.533291826268561,14.060794793849109,1001.0070116491812,0.25677656772050794,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.8985320197126185,12.444585070129955,1737.8810368796956,0.28487290196192283,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+7.314054972861252,8.202212157921187,1704.6438572166337,0.3072899649262866,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.665865559879191,1.6912648995278134,706.2908991621857,0.8030258978326634,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.20902685723999,25.941671287651598,1674.9394008862869,0.5391612766752545,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+7.733951833556473,24.387030273902326,170.31450595943596,0.31130769915600365,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.767358556592812,29.991530198583916,1232.9127691159008,0.6103337833109184,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+5.292732168433758,29.89910511221716,537.0167908466358,0.7161506742231936,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+9.269984917639999,16.662951168078823,329.07708297682973,0.27262400073353377,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.345344148835517,23.069622455415313,246.2110830954974,0.4135491015253515,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.637788066524076,28.34297189647284,1422.9486741684655,0.12188609333694755,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.370761961280168,25.489421720322344,745.7624311593256,0.18114934953468032,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.4395245130287275,7.42044305229593,1477.0568659046467,0.6811178539649828,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.079048619304706,13.516324059302805,224.1770475179905,0.18143834769562694,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.980686221828206,3.8747824545448495,699.0516418781597,0.5251633836670602,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.549172056801504,28.62153081776167,1125.0334555131408,0.7090462617224327,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.228296095500716,18.1852390335264,1602.3740131940308,0.10687692309474384,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.154748345018483,6.859284165103881,705.6297555709328,0.5673122196289035,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.09194180935452,20.151020532175703,1289.1936152303174,0.25656278370136376,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.164509917200077,18.543847213736875,1783.3577216487556,0.9629268752375798,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.9813502795929185,10.744881540985215,1270.1400575463788,0.4835456467199247,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.402699842402349,3.4067277659888706,542.6230020319042,0.8059925497751581,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.340306095300148,20.14719586778399,146.36148495742225,0.5502265421562618,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.460196257044759,15.609231027113799,1753.1878604117667,0.043412532854819164,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.831845049864872,23.16955175206918,140.41188061573556,0.6331513755940223,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.363130824940512,15.604905033359803,1761.933178099979,0.951403342206657,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.488097705125016,25.565445009556203,1104.9805546517027,0.6016118201463312,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.227745237038851,16.557205163234567,1884.2286271745027,0.8191888594267902,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.02672307692442,16.828139146061588,1617.6881479699643,0.8842064633484078,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.690549904649883,26.29960807975035,1996.0748100133412,0.22807977194893247,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.148434057604025,12.10448598637191,766.3524493582493,0.21204483990822665,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.398216259233638,4.020456853519222,1557.657748969141,0.6109809888509917,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+5.881922880886154,0.8634802894001692,863.6687358575601,0.4110284698067047,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.203522800097422,22.65411767020857,1011.7636785774268,0.8398613028667203,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+6.463986488434689,18.60928654060394,1292.2603801149032,0.9000231233980112,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.749047803602669,21.122393042976707,1759.9865169540437,0.3534213793027181,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.221070642982531,6.388924845267322,1969.7585914786607,0.23687055897448206,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.729318791183683,4.091144267603093,1559.7194863425846,0.7805255152438618,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.605389970121152,0.43633997003645786,893.7568861179342,0.2748060355481361,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.264205293593213,10.51762676419791,900.5783043264333,0.8226143185136784,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.442132374212118,17.697530605638992,1501.4063730188939,0.42373825364876283,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.634159012386432,11.767321352991969,553.6765769597744,0.6675498992914705,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.609886413393179,13.124247660711871,309.9008149496499,0.09553531383466818,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.335477896558968,27.124760834812452,773.7820995174754,0.623859324676573,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.440991214702327,10.447664010699011,645.7540841427553,0.4517676787372291,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.475101461834958,15.419684674794324,662.9854288663812,0.5866084631754741,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.894220566903776,23.509590382234293,543.8547269948289,0.16801420774486342,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.024849527056211,11.896283469638105,179.97706030908756,0.7368737449441821,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.669576428046753,18.662601006836205,133.96047599348623,0.8627970775432285,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.180858047314278,25.870911262402355,1976.67254049846,0.21673980009077565,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.280532256184443,28.485618709729263,912.7689540981385,0.09571455552016173,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.470716560086757,4.4122044278711385,830.2206296033952,0.023638586046336396,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.333200932803407,27.797628754844833,1391.3298371168328,0.641971500443266,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.613095778449226,14.763488792386145,514.6823869436219,0.6070940360887808,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.521410767863084,7.747331648968751,1904.9262495054281,0.54669741271407,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+8.883965416440171,13.77407268714784,1594.0555273895488,0.23194709611597542,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.804841570724011,29.40097725856431,269.88090439329306,0.39090599590551467,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.489041111836921,14.778542819786088,893.4034739913639,0.594476335186173,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.286012576287106,9.862548308625247,1770.324784368113,0.4967668588591694,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+6.39942044772048,19.002025629501773,1894.9908423536795,0.9877855202148873,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.463324949120362,7.204368563345792,988.0628713747525,0.13643975255673313,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.283227802521289,2.275899843259918,1265.4816395003447,0.6951445540475938,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.869008621098459,3.8663916573194768,417.3644975749429,0.4043187681042921,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.99245734159347,3.8413751687331734,1983.2203896602555,0.42819961492561476,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.124967163228772,4.55708080536883,540.1762326285425,0.7175977656581762,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.538174106722358,4.164815179482304,1891.1903708567388,0.6924361513243696,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+8.209601542503478,19.226242344096438,1334.3286330855,0.9912559937021883,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.423532718776038,5.456402531974344,1254.6999102698323,0.12839428945412523,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.525747389062733,10.370018499715897,1074.1081709313662,0.10410964938416634,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.469352309795525,26.903652297180354,538.2726422637415,0.7243388171287412,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.222080183639759,14.218849207886171,435.4032608104657,0.5783869170064091,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.3522977322189735,20.026732155630814,518.9237972333332,0.27416066655980587,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.923934582613473,5.169596136048895,454.2326980740836,0.0794193689889866,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.114386070348428,5.768670564260123,1581.2104997768313,0.08565824959643054,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.48551142146987,1.226058487994366,765.2379924167872,0.8941908746641183,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.141431335590304,5.068051892164936,209.9010854704531,0.1918673247187429,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.863846850687011,8.35771017095876,1941.2949972675415,0.32337156211552076,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.41460191484347,5.3103145283024045,1779.1931814305087,0.22665640222698802,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.288568110241163,2.6610760127116686,1862.7293380709045,0.3549963058319373,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.084049132667419,3.6190761330180243,1990.3248630282271,0.06942384274609337,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.1218150311699375,13.823363040981773,430.4009735170259,0.5190597909082704,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.846723153660333,6.190011552173775,852.8598359150517,0.0676125635922149,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.399980123443719,10.928095831442263,1540.6531038377734,0.8003565078223616,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.029591744712301,15.102518125645707,1422.4391743022052,0.23371208191043302,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.346409594229568,20.71184485888096,392.4022220457246,0.5400119146045106,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.303881538111956,1.179364195232968,1650.0829374821737,0.8800790875614583,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.72549579264302,23.98231196727128,526.4370864896553,0.6508773690471942,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.18363943554158,18.837011684727234,525.2534681629838,0.5329577865513353,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+8.636541708039877,2.4527709584661572,1120.2514034974856,0.3243337531153756,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.850316904296905,26.207358723203317,1226.585876199236,0.33300191305819793,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.92157265584473,27.626172015954396,1202.1637948918412,0.6694869551981901,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.616524346046015,1.8323387956459125,273.82499105573424,0.9941393612211675,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.839565264987161,8.30632944441611,1767.1756389977227,0.6618391898493786,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+9.0165154932049,24.18603839379184,604.6400809185416,0.5577834173700249,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.427040088620428,22.44779071150975,346.0783504373279,0.7306505102392461,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+8.633480698238282,5.53563058069132,1788.6213517510566,0.46520561228371815,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.032410849655719,6.280479700101309,1915.7378466365315,0.060142342600785215,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.431015637373387,11.11416308374146,1738.042472804356,0.5622968158779098,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.495233660374545,14.53568955573064,1638.0805419772682,0.9576252845053802,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+6.025708231438737,18.54764314590888,1344.9597632141413,0.17530294235765964,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.921985048818153,11.067409187093173,1146.6290041573648,0.6900048908206657,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.681066446651219,13.876041483994436,265.2748438316793,0.20093368865905648,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.873287624653546,22.424128144012695,876.0611048343276,0.5358276844730813,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.031284587390358,1.100496086717937,808.1081823233966,0.09667644964671962,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.2983628615990455,7.573108330320623,593.5321891446198,0.45037093625818514,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.878349514169505,21.400487576536573,1474.4982160083114,0.7561633288952461,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.999485147118286,26.85620513061598,1042.1638966496644,0.3475715242389821,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.539394153001573,15.350323263469983,253.98781022453107,0.664911724487218,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.519268271316326,15.96340455795947,518.3480837046416,0.7954499607897292,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.243093667606336,3.2151603401932816,1398.1916509532323,0.9271778194794527,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.454413194093398,13.422371004703638,244.64863303157034,0.23464208185545354,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.3345577978451475,15.978517993650694,1717.2931366926605,0.39931591580930814,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.1635853150283,7.27411510904189,1040.7784013265514,0.15241601333041743,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.636333210706823,8.077296928481429,1013.1144969206312,0.9924835021583752,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.373019372244322,11.31852489313868,1225.5747908530834,0.9270009679242953,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.331012827239501,0.602135933331791,1666.8938352577834,0.5399571302805596,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.133020331214139,9.66237496749535,760.8374950141668,0.8420332943764213,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.237618276515734,6.34344020989634,1388.2306898622207,0.5209579772720422,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.353952394175463,9.82492056533744,1174.890731592003,0.6235856880027597,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.281782224698604,3.5928639545775365,607.3537133219005,0.08912443211601662,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.165991263095398,26.715818422196847,1769.3969740748003,0.7552704204968079,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+7.743039502909536,17.80777360662146,1615.1094410531634,0.12771348363523483,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.262055604529877,20.37306957433469,1351.0584858510085,0.8260676302525284,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.231654380624952,23.67513715822015,1716.1052852790597,0.7820280876703859,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+6.253909089064751,14.953265967871719,1747.8589818236244,0.7087446977429764,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.08719648684994,2.6076086426227105,1445.889655758566,0.036160380524762115,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.078028508001376,16.113196254556435,1690.325323890977,0.3031283559453286,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.652026924410504,17.605233540626372,1425.1957771716388,0.26311256991084286,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.202537421249033,22.3631842255299,1392.2674663445707,0.3601364074715191,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.435427043497704,12.949786386890382,1275.3616186088502,0.08764274676383854,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.089248721801752,3.827409083866913,1530.1616151595183,0.9369578230310628,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.024609963326453,8.513277173961734,401.34970005684005,0.5538022407123763,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+8.427288268979229,10.892468891959053,1773.654442477964,0.30552431065802355,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.069368947965799,19.377517239948038,1756.5027027159408,0.3969815170742834,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.276973568753368,17.123349140067358,155.56983776566238,0.44720254050483565,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.655024097236639,10.682901776935388,1669.0518260730491,0.6005943333606173,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.845376237671108,29.59545746378939,344.8527481995459,0.5156794276964978,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.850883698424026,18.173244580706616,736.7258230923696,0.9193919732144173,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.410986078336413,7.116803752079834,1512.6656869540548,0.49696348290583026,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.406303965244837,3.0534741786121122,405.44380249178556,0.9921580148233127,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.75886123015157,4.585774175529961,1654.137345826218,0.8514249577450957,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.443510292372811,7.378731851535244,1681.0549381197097,0.2085105143573358,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.839333296799344,4.82044119778667,1064.1886941455887,0.9305952146439163,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.183488136996438,5.5970107215391725,112.1331562619838,0.11636639788547609,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.659018244347088,8.552855060815412,645.3724530323343,0.8174497084911916,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.04903962829027,5.201207858842645,1272.1611449139102,0.3806232934765801,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.074645230175353,26.902962738792755,1964.2537382521045,0.8779743204450695,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+7.3044187623467645,2.4070123698492663,1300.4457013316699,0.8680566901074503,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.019230988390721,15.73534168710764,593.6268040219036,0.8059254001176211,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.903277556842524,12.311904809689846,1304.6108358892616,0.7900304363070614,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.7846489305224615,29.47135850725819,1125.9722214601254,0.3046791390980408,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.109219821461096,3.3611670650415704,1581.7062507871728,0.08091928305125218,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.740309058352418,11.935667971372249,303.263213771221,0.40298017876516146,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.215284949315304,29.084112998261066,1545.9530147538533,0.17352451498650867,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.61884424865697,25.965213776819407,1128.4064994846096,0.6949510889024617,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.534798579726163,24.512162128478398,1929.6848073320898,0.34609972653778553,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.510630845582651,7.737084811348195,749.5571154735036,0.9756102008599149,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.161121282253532,5.126627621701974,1301.9815969545014,0.640972077345332,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+8.948027090214413,20.05929659773293,1870.8534004690332,0.822480563634361,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+6.1607373247182,27.881279673827574,294.7684831822906,0.13252467274184843,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.969928207153806,16.702886790417892,1880.7341257492571,0.8620144822726226,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.67749990090547,17.148380684096995,1406.9828723715455,0.9227571905133943,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.498403652197581,8.399372809808526,228.8904122998266,0.4870619188189359,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.38342760260203,23.084787995758106,671.8307771989508,0.6062529377509774,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.088335309052033,5.611312456725701,1445.526968426035,0.7648098009029954,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.418962455126547,9.71037709212731,227.96614279066623,0.17483862726041255,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.03747091078997,12.763093158492504,1206.1238743349193,0.5025660764634424,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.051881257234987,15.22831136053365,757.1778082106177,0.3986630277723131,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.848956557729705,7.2722919724524075,1279.7394837582065,0.1463739921622491,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.525634059719153,3.445104742176106,186.90986424377442,0.36753442229153144,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.5714430857569734,18.318601273248976,1755.919931689515,0.06817230938549357,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.266800554916077,8.658916597207673,1949.6290414370542,0.025811906949486985,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.036996169786597,17.437146642678368,1940.8679250428138,0.13516628915482276,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.991888909193028,4.630881458226069,1524.3384803115569,0.9631151115891738,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+8.509439956359307,14.434203055644524,347.1638562482008,0.549529535895017,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.889142407694295,15.977682976547577,1540.7000722651428,0.96582216115322,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+5.37862984247772,1.5547061046728072,146.71514127172287,0.432497878330132,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.727329213425762,10.098128345817617,142.03474790509478,0.3118161330852596,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.043493848371856,4.032440308169227,714.8594163841284,0.5061418628402441,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.728930768468155,1.9012491141830323,1028.422061768865,0.4395116886329101,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.041386732274834,29.698806971698357,1563.774093834807,0.10566468426174391,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.4566219428971445,9.67061534924169,1398.2612155523598,0.6408263146902062,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.985757960986251,24.296233375639044,947.2151421158219,0.2160381825095996,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.022777127307984,7.6392196429129156,619.8906659351652,0.6195879548978296,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.723636231378744,20.44508166671788,1994.5365502996513,0.6502010923981534,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+7.469302052149637,22.806835796690596,909.7444742483486,0.1520248531286481,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.11352838961712,17.869162218235328,957.6353462263834,0.06134962711066816,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.9338256677617025,14.147285656504751,410.88526026417145,0.7807615860684398,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.0092118925725195,12.355227424418056,1610.1381426248658,0.4598004237693202,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.204806496063911,10.46604799628986,1417.9962289848283,0.05816379550547579,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.067620893735601,27.885874327434774,519.4622642986448,0.9948663171697671,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+6.464298641716705,24.918582233631874,256.5239866701011,0.05778056099636664,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.359211323031108,28.950807319995377,1392.948673941955,0.6950352288585532,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.923348045712466,3.728916704566342,1343.571307134157,0.9836789252634136,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.8215053472238,21.92602425610933,619.1931012965977,0.23918010421592562,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.959258015351545,28.150213704631135,1906.6407682757797,0.14224936868719618,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.557388715009623,5.436991984969804,387.0099943837104,0.1213849394224289,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.421536455226416,1.9948880210033249,921.4361219809437,0.30327514756759555,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.654721113767451,22.233619478701772,1892.870248318438,0.10104581101064669,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.1934106545677645,17.234193395397355,897.4819021596323,0.6921613416941319,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.0979533952058755,25.254863302748163,1313.1993005617626,0.06229179813006269,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.378547496386005,4.193171298788685,855.4293561293091,0.5094221281497897,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.768939761000421,23.858019355796706,621.008884462473,0.9966968538529768,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+9.01420949829701,6.048819601432336,1969.5575311236737,0.8139702695060188,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.840123816987683,4.909678285971135,877.7346119985817,0.6152194382310109,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.576650865937417,4.927973937929789,1798.7884869903553,0.30625362078661167,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.2618669189733644,24.437241606941463,536.9137511930637,0.6238958362916385,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.596067480818617,19.955916620886004,504.8989376476583,0.5270414639116516,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.216329622184888,15.69196274307358,159.1547574805716,0.4260833838903715,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.8785934450912,10.764914523705075,1338.1669682141817,0.13071037674019947,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.251034518676775,26.31601622439325,800.2000530751461,0.8866042152404667,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+6.2634756309838515,11.773353222679061,1742.2806746953104,0.4497846488213225,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.109421848941542,24.497983184147312,999.0988227139586,0.19462251182076507,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.904625331582255,13.174047257106553,1939.5675130379714,0.3677593508772896,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.79699805733172,11.308332882747226,452.4984798359302,0.41412975252892703,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.232063629588115,13.880393570088193,1750.3840191156605,0.8275378955668743,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.292678596511642,9.041336224924262,1575.5340203043093,0.733614380561402,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.116889755992018,22.428281405287535,1564.7515048236987,0.7693048936413398,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+6.6657141511494995,15.081611702774374,1705.0881334220865,0.011031264428647214,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.069554774379903,6.96638085440452,1545.945582791698,0.4161539981797615,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+9.177433531644764,26.987237198237054,1289.8186110996892,0.4813441516353236,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.926828667427914,11.516736641196342,349.3652675965364,0.019192276823056686,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.349946685696512,16.306585833419657,161.79974103337864,0.2598132087450342,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.336289896901638,27.19416332893641,1849.6109108498051,0.760289823122135,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+8.83854254960312,18.727139877419763,1271.6355975894023,0.13710970572899905,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.325020014313136,3.506941221250922,1613.420852854735,0.5353101314525917,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.732939778708664,28.194963708404252,1014.8924678738451,0.2152018720172375,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.830115021825856,18.831241592142536,322.8855590285495,0.012120774643893273,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.42614902320325,10.047168439712584,337.85300518484587,0.24120145759954148,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.762717360087416,4.1781621799016175,1402.5740457350455,0.9758737549100538,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.505605681062576,23.820755678108878,917.5812003089791,0.8015371118829896,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+9.212696483723514,18.602182677855406,480.9969807306398,0.9595766443210334,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.132134085037379,16.003832759289647,1034.02963880873,0.48785404392636245,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.565275265402143,26.81677749152873,221.99698044275476,0.1097361986775035,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.437294221968458,23.657916336735923,1205.7456636373577,0.547959488973693,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.767532520146264,4.550246391982535,611.0874684266855,0.4543773345599609,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.455242325469186,9.351662033866447,1615.3622912106575,0.844357082739616,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.630378068564358,7.454674194433972,689.6877219547902,0.09808258078424459,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.332483435636815,22.31838877718031,964.9182832554222,0.4882411370217782,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.9481788236758,1.0059730420733815,122.0790258253912,0.15004866469398426,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.33345877989392,17.096690546139495,237.64908680966187,0.32467592689006,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.136570834478706,22.873760572220718,845.7377571727012,0.7373570773877997,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+8.161178377941992,26.302969102852483,1011.8837859625347,0.47601812936876653,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.617710180488898,10.262452461477224,1240.0390414266772,0.37588828514576933,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.32116329919022,24.637719140160385,654.1588995476761,0.3944762785700353,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.64212519965331,3.318952108656217,1420.4655836404309,0.45944676840598664,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.645510276056314,25.393568752035545,1734.2325546594886,0.7850165438370569,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+8.901825433610467,3.8246598699594725,1581.7168788973647,0.8920846889402344,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.10958248650412,11.918618716811018,175.27576816187857,0.9553346865039283,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.30104079487422,23.918860973386607,1012.963199789875,0.7869033862552951,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.256823326092398,4.497522820463214,299.36733899453225,0.31540689574801273,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.592328305350488,6.877541856979245,559.8855301388022,0.6881347060865421,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.924837688499943,21.667577051791987,1974.6589272075782,0.4376031240553919,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.158850947659666,21.601096096382232,370.74153151287516,0.2546706220460512,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.581067012462455,19.234428986558918,1047.8874915575766,0.8408715794259226,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.005024038179048,20.818453334013,1274.4958952044262,0.038426348962324997,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.520978205831911,16.281733300427884,1434.6834440337975,0.9017619921354235,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.690123286879748,7.553971767208583,1163.3324986251369,0.46147746462473416,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.422918729283911,10.370879805117584,118.56461009644894,0.6372014768082804,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.602260634482783,5.44793150404277,720.2764856635846,0.6593539222057827,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.161740232085339,27.25351684000885,1083.6521224309517,0.8951177407065364,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.09519108159607,17.501753842983614,266.94634837518333,0.6366696821672073,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.441900856184095,12.025542502909197,766.1911692974435,0.6139335847600618,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.28943563457728,13.86017410932398,163.08590670359646,0.06665204056068996,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.658749672560548,28.41850018835446,249.2991445945394,0.5184080219452041,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.137251124725722,4.600542093482406,854.1542247830325,0.15016900081704165,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.168066849371465,17.586894960503916,352.15993268181467,0.7374337687214856,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.701702522968462,15.17666036653398,1178.3276116969605,0.5122219208126745,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.620857886350683,18.343627063039435,1409.9834413608048,0.6802277792083533,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+5.5717723069334815,0.5433055146252153,1621.1147283072573,0.041672900602384266,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.350094670246619,26.163717268324543,480.2854640651392,0.08479201604580322,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.46497098894375,27.96354847450837,418.2169062922325,0.7163233880626823,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.971194623735794,16.953995507676268,298.6788966353605,0.07208433599867337,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.8030071411855015,20.899524716306768,1309.2174741329097,0.0712567277652586,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.384063592471956,27.67498143531887,1442.3038803251122,0.01210847523488745,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.232567745258734,21.21715902940196,160.01367516871989,0.9565013982994801,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.391095842056666,4.57617128742784,1878.8032678630107,0.737508359459007,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.43285804724548,17.288650805004394,198.7454389377976,0.35325140850206416,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.86843455674193,18.201451391485676,1128.4630370720338,0.2965355812876552,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.267411001751977,12.72392013907158,1447.214986956741,0.34970322974584955,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.391334357581407,22.093327068741687,1754.8413351175627,0.7746535311811819,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.323351567355379,28.031010443070446,1456.765171051613,0.6613706110704144,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.453304128235606,27.76705538720329,1623.2833578326045,0.18519556786746794,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.578337876459166,13.525181142123962,744.9553658313315,0.17410933533408435,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.218745130679334,3.397141375222658,1648.1677161183732,0.09839564971339732,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.9753713931753625,29.54523596887004,252.21820813088277,0.6603027197013381,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+5.353053716040197,25.166942593378025,1800.1516465150025,0.7643726622217359,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+5.114078345369559,3.739880436098005,1140.425514692099,0.265046428325004,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.331917866050663,27.62525647852117,1652.8657629287381,0.020944961030912812,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.761910542304927,26.096890861863848,959.4047405847703,0.08217166747642735,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.13188392742164,15.565141713782163,1322.7976208733974,0.9678600348450305,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.840288249864214,17.738263072347877,1100.1650557786152,0.29544477747742026,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.779824440318806,11.970081116103907,1490.0200913351305,0.7692231478381336,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.703966692019887,1.64284916466094,255.0969658581202,0.6246635688542638,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.126093041740679,10.055917249377028,214.6689595820712,0.3819396396528959,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.4715199911775425,24.085603457940344,569.4961446192783,0.2056872621955551,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.21568165215028,0.13896069013808576,403.13489221505785,0.12138641815940643,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.97088819522979,10.004975150734325,1756.3887765251832,0.6150129680388666,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.259702536256743,11.9450608077283,516.5065759802842,0.774633780637788,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.296893762984373,16.121868088137685,1954.1439860563494,0.6439042535411307,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.320536125130959,27.595668492382813,740.102004365103,0.5303021332491583,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.494593236301303,10.390379830978837,446.02403980852864,0.041951223431636264,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.752743358054586,10.40859605688683,1600.4271635707103,0.9684887775943838,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.888200280925055,22.125037443292452,1351.5447734516647,0.7987141916545746,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+6.1147894527552085,13.566538226694215,1046.571861260964,0.29282203670096474,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.601877053930677,6.738144688199458,1155.1907467814995,0.9799703293588506,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.410307497089661,13.573185483980803,1466.4833787173013,0.6018815896363221,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.064770698833901,4.225710611393996,534.0640085294676,0.5824226582072465,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.522326882281123,5.291609595186699,1993.0344405078097,0.7480731794295321,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+5.207011889097887,14.951033182184393,1952.107008078888,0.8117697880901376,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+5.183279610435366,12.567763485136437,1335.61880405918,0.6564786073315027,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.849572628049533,27.445377032043,479.13065676537576,0.12809574636620003,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.166460367210107,10.871816973498994,1392.4336606194536,0.3382675059944984,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.1337822308929635,17.417650508341303,237.1769770604341,0.9280836403260497,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+5.440253722929507,18.96792863758591,158.23975419103152,0.22461561184385193,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.212271438025746,0.3928336976500091,589.5974881713059,0.3721670238375133,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.1306229685125455,19.906121160501318,978.983617804701,0.432076882944196,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.779408414595069,5.341079006092543,1749.717760275923,0.4394049896944522,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+6.952332421570879,28.832109524083656,1481.6212325559852,0.6129395824945255,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.79327130478818,4.459881832593389,1511.142390279964,0.9430758377447076,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.771325441234974,12.438723711810711,908.4373354513432,0.24069271183250496,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.8579214289043975,2.5604900423593158,757.2764858392295,0.12150137630091806,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.2038680439742,29.906227555378422,804.9736496707451,0.19747048985993731,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.685756765819121,15.065850309937277,1976.53417109851,0.8869249002092695,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.816369620714063,17.861550519601312,176.2074636837167,0.645810812655206,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.264113163610395,2.012294321652824,1747.3598426326523,0.28590678923916013,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.85420428534745,22.498814111975335,1199.4832762875476,0.8159469389686173,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.964121342285253,6.2971677928675724,933.3692964602219,0.861369996363436,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.733204921866434,26.941628683221413,1477.9895547887593,0.846514338690278,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.3175593633019345,6.1541892144602155,1024.6709887069355,0.9189265336395545,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.89088675192842,5.720631619909997,1759.5041523551552,0.2522410201733616,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.119300897437298,1.0964900354428464,1811.333541621391,0.7550419287462783,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+7.635990115730585,14.162008353299978,901.2697610595653,0.46053949727414,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.23103608641231,16.945233997878493,625.972814746598,0.8419985528900615,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.589633800441455,1.971259182850571,1225.4656243273882,0.7284906771616132,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.746764667929348,23.26582850085032,1833.4903566717128,0.7764474464997246,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.89479698299059,13.598665042440828,500.2581591107665,0.6561618376810715,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.062138007211825,15.731708079827401,1283.6365087706172,0.17742876946970687,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.455275551921707,13.222882408146845,1299.964418175789,0.5450269188969383,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.236591639494364,12.02289182625978,1492.914742589034,0.9846697395245082,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.737461870103484,16.789209939246536,349.9786017417936,0.9373880664971189,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+9.325357537207614,4.657207377921376,1460.0674328959683,0.04317373579701167,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.074077888802286,5.457843914858134,1827.161789264718,0.16481481572943713,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.881060106551834,25.85356863040552,441.39790685345974,0.1317287734545619,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.3121258539382445,28.38346386400898,551.3323173553675,0.7259799099852955,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.45350100619842,11.199279488392587,1945.6506786791151,0.8177853298569451,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+5.081998215431974,8.122340194306613,443.8562101480306,0.2135113663106719,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.424993323401678,19.319986297170473,1723.3316774022003,0.505852692951829,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+8.073530480373606,12.262025132942892,1035.3279272512661,0.8407030280112,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.320348918071031,0.7615906698103458,569.7390413660364,0.7328015447662506,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.435390336321926,4.684577920985711,1754.4248124177716,0.5422372054918483,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.801938899362545,21.479166865421927,946.0799845050644,0.5903476904587729,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.104723710811216,19.76771825730454,1078.1529724664115,0.50836054691628,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.66510817165021,0.8128797751045047,782.5434018595548,0.2975484513188206,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.2683464864803,6.6591648579884835,1226.6066177263622,0.5650219928590161,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.531741724297453,6.932243897642142,410.6953579115433,0.6888853020500907,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.135317244138678,20.15678230796185,843.0549196383454,0.8733229158608077,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.830242810509478,0.5913161326309246,1941.8834124370462,0.6362913539792481,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.948624060871738,3.123257459537215,590.4535221321423,0.761121537043158,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+8.307819697117486,23.99748256119568,1347.7996626284553,0.160071634954573,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.615664186731818,5.356339861630008,717.8611220269203,0.4615574744197899,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.2691555765708795,19.58238323555624,1569.5989388045411,0.009331619827093296,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.798477947008752,7.145483431401796,348.6599553648647,0.24667886452162302,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.377766382383863,2.983241782780355,1942.659985649235,0.7264617151130048,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+8.630756326702688,7.295165729983623,962.2001286289146,0.9918099513493635,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.45727313900303,21.668007955669776,548.4958803582815,0.0991780995872159,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.85677954610142,25.67089404318857,239.64381992702405,0.40149431586128825,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.674081386067524,24.906595937009747,422.5400196663274,0.8000709686991595,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+8.493858323338985,11.915505888553644,1087.5705022564334,0.20403563462889884,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.533615931138581,20.042554097119385,740.306035219444,0.5550849493022862,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.18840796521604,6.149528862474629,1674.878395176958,0.7330712960296748,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+8.862857383293553,8.794431907830397,918.6862949574313,0.615985450260179,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.930473123187582,26.890074555633593,572.5571179164967,0.18802473461541613,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.378919805061738,0.39005770532208106,1272.575474547657,0.3553845686857394,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.395442933381071,2.5652559256340424,1442.876712082347,0.7837917844853972,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.464057409761697,6.23658765438082,417.3796250118047,0.5542265141320166,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.06148808005805,0.7959661162145915,418.47651094780355,0.005229613542912737,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.273635676015357,5.443063052693919,169.67571117373166,0.7609907600280938,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.719058597484837,17.491246829090766,1499.1638286247169,0.03531135494023907,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.440223204637753,12.642736517774939,1361.2286024814296,0.7457337827312321,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.029854528232903,26.780151332309245,1001.7986639246463,0.2024805601652374,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.751407554303734,24.523306852153226,1703.9238530414746,0.9580734801193802,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.048769431661342,10.25452055093628,1630.773290605101,0.3679407513020845,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+9.074218893886687,7.782703002938774,1212.173292353829,0.3269316163380791,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.410790045537601,11.390772245018008,1749.7154329751913,0.14888805033244468,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.436911369156867,17.708848275444232,491.0982990698597,0.3056042154902149,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.275278851728622,8.041909224686288,312.647276855683,0.8766507618282006,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.277732161219003,18.72446723547402,612.5242618822803,0.9963343376272473,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.5804704965547876,12.282349565737213,208.46502656969824,0.36830953050684834,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.843267454764097,16.561415425559407,1109.2221032019609,0.44861063095454257,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.018004848902439,13.0837958740595,1879.550815360427,0.722070938202737,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.319448472641291,8.83397278625753,174.75272727016832,0.8861957804650745,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.478990454164622,28.453599208864702,332.00883661905095,0.5930443341867842,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.026333052346672,22.908173824792826,959.178153738527,0.39152569817782934,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.38568538246956,4.203395272993577,1874.3625333030193,0.41262184084862374,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.562105696766318,26.054039276937385,700.696599455826,0.6956181464968069,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+8.553281642575492,14.62293594748541,1063.7461365079457,0.0032182636042786816,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.410427463719107,26.83656680682274,178.988432195745,0.6195893374598407,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.2248913711616165,23.995657678419455,381.85208182796885,0.3554930104413574,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.259014420074899,12.756405134077003,1974.597233621809,0.7941973312770843,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+7.47287997045681,0.674079249603522,1933.7255232284865,0.09299063982313216,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.9868872561801965,8.060320781548382,109.38596377537827,0.5882022669483905,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.994668822412349,16.249026439826007,1908.442392304154,0.48097288988612374,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.579117556484354,19.00434659478442,1314.3278818494507,0.6423255259052274,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+5.526801573924226,7.736630562996068,1749.044759588042,0.06485359448296835,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.643462569237761,4.180682222184724,964.0057257043323,0.5799837874281313,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.426797842728625,25.047907103978975,1079.6324543005753,0.5614845879595237,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.781981284923175,29.532065421106562,1028.8085024881484,0.5606600944161709,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.455052042552556,15.770705469080575,1367.0420893375983,0.6034876665964548,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+5.378480627517488,5.150378575449105,365.33738403699454,0.6764679372263622,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.15436109156604,8.169219795581068,156.9498207580881,0.8049889996807698,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.3274335286388705,0.551720296424002,685.0668890232628,0.26982072012821434,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.698370266806602,27.42896419681497,1438.8934491996288,0.8250494101800621,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+8.178090022204232,3.532532486704234,483.5215590336019,0.4982556822634536,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.366069512888549,17.295494265427607,1379.5216233173428,0.07705827913433116,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.381769713383363,8.22165662061618,1942.8328876038138,0.0585509292439792,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.439878103255289,16.6253400754738,278.4113599998949,0.3342383186960608,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.684218580902542,19.542611650555926,1377.94402462774,0.7848969771114676,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+6.667889661801009,24.892254111216047,943.1254166786852,0.7076809347409158,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+8.657598052658761,6.1926381528180965,1749.4702833172603,0.7886149646724064,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.262618598227364,0.32987485975441433,436.58459995003324,0.5172690564416094,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+9.43700478720292,4.106568902064218,1415.9893092297125,0.44019899795549056,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.390201833665238,27.000559255443154,1692.4190503314094,0.14745252670628395,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.693168134889121,26.216702326875456,1894.7670170006443,0.32819275360931155,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.37575322514401,17.922393065109247,1398.171253750327,0.43401936617387527,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.497161121673466,18.0155058130096,1044.6320516160117,0.08860042967961723,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.512819123811123,19.951100236387664,1273.9097563823063,0.22061195271121126,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.908999041611393,5.261138358703487,1750.9194705095647,0.5982252940637388,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.078594732926312,27.432358377748795,1184.1585186137763,0.7356631142391898,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.500388670377681,12.563115746762193,157.73541342399002,0.9983475113929496,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.216812969308866,11.494155847484924,1868.8025214632578,0.9331133313435577,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.051091401453386,15.567531158485126,1410.100826959966,0.6425651995351915,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.108972888973568,1.4089790032516514,1385.3754329767685,0.421248053294072,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.253364740568268,4.988501062682382,509.78278955566265,0.6361773647082327,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.534680623206324,22.141008492791112,1351.8823934420486,0.785651618080232,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.528868110496972,2.483960037753794,848.3423707429012,0.11833619092338732,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.921446359522286,18.094563283991647,1337.342656378835,0.40990488969628824,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+8.357201956694405,7.360473290439629,302.5267575851824,0.8398022856356172,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.6251594429372185,11.678868421259295,1349.9060787457684,0.383832951933044,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.329776468135439,8.660812103120996,1998.8860789642665,0.5718722712271865,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+6.686917607856668,10.670181493948474,191.60287383505647,0.5877693608621982,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.285704388268373,21.571377155527365,1956.630950020503,0.18447625313363936,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.908696076852571,8.913651468695251,873.1251253734541,0.3622354416522884,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.006181273337537,16.992139208906917,1754.4315556407923,0.33451128874193214,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.334501427482751,14.28151206597299,1586.5324197107195,0.026196708532064794,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.054695136104174,19.910134960879443,1177.3308958746688,0.024191763891355245,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.364454720184376,28.10489217974274,1503.0534975775204,0.8316970436757735,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.194219603777593,21.97716291630751,1769.179566472561,0.2730708099728124,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+9.01014401164132,6.448211357722703,867.8666111369627,0.5180787662388154,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.374654990888349,0.9354940518385402,721.3630069701535,0.29872557358877305,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.468341582536851,7.867921328994752,1368.4274325708109,0.9406792451153405,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+5.332084541309295,17.852337921007646,1634.9072896883913,0.25929675886577375,Metal_Leaching_Risk,Use RO filter; test for heavy metals; consider alternative water source.
+7.492344279805943,1.5427744045275105,1548.34175607557,0.4296568127389351,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.361861410285945,14.89098741603709,1615.8459328314054,0.8727302504846018,Enteric_Diseases_Typhoid_Cholera_HepA,Avoid untreated water; chlorinate; consider relevant vaccinations; practice hygiene.
+7.35394029876567,17.905285467506676,927.6082981445727,0.8419335667918086,Bacterial_Risk_from_Poor_Disinfection,Increase chlorination; UV treatment; maintain disinfection system.
+7.832293871608681,10.027316724508825,1653.885010732541,0.18610141784627732,Safe,Water is safe for consumption. Regular monitoring recommended.
+8.130869100430777,23.12736611237466,328.3972052041561,0.8026433097957104,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.04543479145498,3.1979475940131543,1134.5292861256141,0.45818688673789265,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.824011360378286,2.254133452074263,110.94145494643098,0.4829688720853552,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.629414403653951,21.8456626861081,716.7130768105136,0.13347997241594378,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.05521104720945,14.864739486185954,796.2769162556559,0.08060151375712465,Safe,Water is safe for consumption. Regular monitoring recommended.
+5.20450871153656,20.65207189283208,852.7281140575852,0.7279393069737652,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+6.264334353165037,13.044820158112387,1421.387692710738,0.49646115235529975,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.276851678344514,7.392060997173204,838.2603924136569,0.43685070261517955,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+9.006187027509124,24.573069530225993,952.5178829828083,0.7295082286523967,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.050455387535708,23.982476369069378,551.3338486612222,0.7655128989911097,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+7.7905966901069155,20.840894125632804,809.1784040957461,0.15890816766935356,Safe,Water is safe for consumption. Regular monitoring recommended.
+6.2482153234150974,8.164354116898881,531.8122917999879,0.6102251494776413,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+5.846545218756926,17.706920006072615,239.07225516004291,0.13535408227768553,Safe,Water is safe for consumption. Regular monitoring recommended.
+7.086642822229919,10.829216908200804,1246.552327424618,0.7513750860290457,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+6.5900850261172375,2.7474621997990245,1369.6043172545308,0.6569551562671395,Diarrheal_Disease,Boil water before consumption; maintain proper sanitation.
+7.626452503328924,27.519407263867283,1277.0316574182675,0.956614621083458,Chemical_Fluoride_Arsenic_Risk,Install specialized filtration system; test for specific contaminants.
+5.3498058663424315,4.104558927568842,980.6386832210875,0.06895801635642118,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.384776634497749,28.50712061462407,821.5929823405367,0.05705472115125432,Safe,Water is safe for consumption. Regular monitoring recommended.
+9.437948350158212,13.380173188738672,1740.333934186468,0.28218707469320015,Safe,Water is safe for consumption. Regular monitoring recommended.
